@@ -1,1 +1,1 @@
-# MNIST-Autoencoder
+Using an Autoencoder to compress images of numbers from the MNIST Dataset. Can also be used to reproduce numbers from the inner dimensions of the network (e.g. by using some sliders).
